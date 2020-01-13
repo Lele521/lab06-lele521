@@ -105,3 +105,6 @@ with lab06, look online and see if the lab07 instructions are ready.
 | `./checkLocalhost.py` | to check the syntax of your `localhost.json` file |
 | `./setHerokuEnv.py` --app APPNAME` | to check the syntax of your `heroku.json` file  and set the configuration variables for Heroku app `APPNAME` (requires logging in to Heroku CLI first)|
 
+repo link: https://github.com/Lele521/lab06-lele521/
+heroku link: https://lab06-lele521-deploy.herokuapp.com
+
